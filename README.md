@@ -25,3 +25,13 @@ cd R*
 Mac: python3 engine.py
 
 PC: py engine.py
+
+#####################################
+############ CHANGE LOG #############
+#####################################
+Alpha 1.06 - 3/31/20
+* Added Main Screen Help Menu
+* Added Magic Wand item (upgrades with magic skill!)
+* Added new monsters!
+* Added Equipment inventory (functionality coming soon)
+* Changed equipment names (equipment levels coming soon)
